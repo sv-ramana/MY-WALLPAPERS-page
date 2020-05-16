@@ -1,7 +1,7 @@
 # PROJECT-my-wallpapers
 CLICK HERE TO VIEW PROJECT PAGE :::
              
-      ------   https://venkat-venky.github.io/PROJECT-my-wallpapers/   ------
+                        https://venkat-venky.github.io/PROJECT-my-wallpapers/
              
                  
        Using bootstrap,css and html small templet of my walpapers page
